@@ -27,8 +27,7 @@ export default async function handler(req, res) {
       <div id="unlitify-mask" style="position: fixed !important; bottom: 12px !important; right: 12px !important; z-index: 9999999 !important; background-color: #161b22 !important; border: 2px solid #444c56 !important; border-radius: 10px !important; padding: 12px 24px !important; display: flex !important; align-items: center !important; gap: 14px !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important; box-shadow: 0 10px 25px rgba(0,0,0,0.75) !important;">
           <span style="color: #c9d1d9 !important; font-size: 14px !important; font-weight: 600 !important; text-transform: uppercase !important; letter-spacing: 1px !important; -webkit-font-smoothing: antialiased !important;">Powered by</span>
           <div style="width: 2px !important; height: 26px !important; background-color: #444c56 !important;"></div>
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRhGGBz2scOQ-dTnF0eLK00WBaZysS7dFI7eSH_iZ2p6HQQvtDW8QN6OkIAts8dT9c-B8XNvqMviltLkXHlgW9WW8q61_KaM7-6YbFW2H0gfOO0eJriYjtL3j9FcFx1CQ0jaUDKYsefQqMjhxCiRRwIUTfUfPV3CJvSk2vj8fRmeBSq38VlUnqaeZNrT_B/s897/image-removebg-preview%20(10).png" 
-               alt="Unlitify Logo" 
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir1SERzL8Vh_WEYLDNBFkBlUAInnco92xAsx-nJXwkDDh8bKqySxf1mcmsQkWp6mIMwND30vRb34mD01_Nt4h6ZMuOimwC_-WvYELU-zXVPKHkBak8M3Ysy7yHxgg1OGLA0joT0lCnsdKQJ4WvLnF5ZCoCXQfevmrC7ioWFTIEOa02mGPSauntB3z2HjDy/s939/image-removebg-preview%20(9).png" 
                style="height: 32px !important; width: auto !important; object-fit: contain !important; display: block !important; image-rendering: -webkit-optimize-contrast !important; image-rendering: crisp-edges !important;" />
       </div>
     `;
